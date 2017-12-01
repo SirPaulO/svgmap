@@ -1,0 +1,794 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"all",
+				"allplaces"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"invento",
+				"inventory"
+			],
+			[
+				"inven",
+				"inventory"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"pal",
+				"placeid"
+			],
+			[
+				"palce",
+				"place_id"
+			],
+			[
+				"pro",
+				"Product"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"default",
+				"Default"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"col-md",
+				"col-md-8"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"csrf",
+				"cairo_surface_set_fallback_resolution"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"gy",
+				"glyphicon-edit"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "arg/mapa.js",
+			"settings":
+			{
+				"buffer_size": 16600,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "arg/index.html",
+			"settings":
+			{
+				"buffer_size": 1562,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 131.0,
+		"last_filter": "snippet bs3-templ",
+		"selected_items":
+		[
+			[
+				"snippet bs3-templ",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"blade",
+				"Snippet: blade-inject"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set s",
+				"Set Syntax: HTML"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"View: Toggle Side Bar"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"materl",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 513.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/mapa"
+	],
+	"file_history":
+	[
+		"/var/www/html/mapa/arg/index.html",
+		"/var/www/html/mapa/arg/mapa.js",
+		"/var/www/html/lv_stock/routes/web.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/ProductController.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/RecordController.php",
+		"/var/www/html/lv_stock/app/Inventory.php",
+		"/var/www/html/lv_stock/app/RecordItem.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/topbar.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/auth/login.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/auth/passwords/reset.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/auth/passwords/email.blade.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/Auth/RegisterController.php",
+		"/var/www/html/lv_stock/public/assets/css/style.css",
+		"/var/www/html/lv_stock/resources/views/layouts/auth/register.blade.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/InventoryController.php",
+		"/var/www/html/lv_stock/resources/views/record/show.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/head.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/javascript.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/sidebarleft.blade.php",
+		"/var/www/html/lv_stock/resources/views/record/create.blade.php",
+		"/var/www/html/lv_stock/resources/views/user/form.blade.php",
+		"/var/www/html/lv_stock/resources/views/product/index.blade.php",
+		"/var/www/html/lv_stock/app/Product.php",
+		"/var/www/html/lv_stock/database/migrations/2017_09_07_202405_create_products_table.php",
+		"/var/www/html/lv_stock/storage/logs/laravel.log",
+		"/home/sirpaul/Downloads/teamviewer_12.0.85001_i386.deb",
+		"/home/sirpaul/Downloads/teamviewer_12.0.85001_i386/debian-binary",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/searchbar.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/sidebarmenu.blade.php",
+		"/var/www/html/lv_stock/resources/views/record/form.blade.php",
+		"/var/www/html/lv_stock/resources/views/record/index.blade.php",
+		"/var/www/html/lv_stock/resources/views/place/index.blade.php",
+		"/var/www/html/lv_stock/app/Place.php",
+		"/var/www/html/lv_stock/database/seeds/MainSeeder.php",
+		"/var/www/html/lv_stock/app/UserPlace.php",
+		"/var/www/html/lv_stock/app/User.php",
+		"/var/www/html/lv_stock/config/laratrust_seeder.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/UserController.php",
+		"/var/www/html/lv_stock/resources/views/user/index.blade.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/Auth/LoginController.php",
+		"/var/www/html/lv_stock/resources/views/inventory/index.blade.php",
+		"/var/www/html/lv_stock/database/migrations/2017_11_14_131838_create_user_places_table.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.200,share=www/tecnosim/robots.txt",
+		"/tmp/fz3temp-1/settings.inc.php",
+		"/tmp/fz3temp-1/config.inc.php",
+		"/home/sirpaul/Downloads/ps_tecnosim.sql",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/item/item_form2.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/item/item_table2.blade.php",
+		"/var/www/html/lv_stock/app/Record.php",
+		"/var/www/html/lv_stock/storage/framework/views/4c74b2ee6c522ee844ee4bee148d0a2f7675e480.php",
+		"/var/www/html/lv_stock/database/migrations/2017_09_07_202421_create_inventories_table.php",
+		"/var/www/html/lv_stock/database/migrations/2017_11_13_122350_create_record_items_table.php",
+		"/var/www/html/lv_stock/database/migrations/2017_10_27_142544_create_records_table.php",
+		"/var/www/html/lv_stock/routes/api.php",
+		"/var/www/html/lv_gorrion/app/Http/Controllers/ChaptersController.php",
+		"/var/www/html/lv_gorrion/resources/views/payment/create.blade.php",
+		"/home/sirpaul/Projects/coinprice-indicator/coin/coin.py",
+		"/home/sirpaul/a",
+		"/home/sirpaul/b",
+		"/home/sirpaul/c",
+		"/home/sirpaul/d",
+		"/var/www/html/rentatool/php/contact.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/components/select.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/item/item_table.blade.php",
+		"/var/www/html/lv_stock/resources/views/inventory/form.blade.php",
+		"/var/www/html/lv_stock/composer.json",
+		"/var/www/html/lv_stock/app/Model.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.200,share=www/oc_estiload/.htaccess",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-1/.env",
+		"/tmp/fz3temp-1/AppServiceProvider.php",
+		"/tmp/fz3temp-1/footer.php",
+		"/var/www/html/lv_gorrion/routes/web.php",
+		"/var/www/html/lv_stock/database/migrations/2017_09_07_202358_create_places_table.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/PlaceController.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/home/sirpaul/Downloads/test.c",
+		"/home/sirpaul/Downloads/RB2.nxc",
+		"/var/www/html/invoicemanager/resources/views/layouts/auth/login.blade.php",
+		"/var/www/html/lv_gorrion/resources/views/auth/register.blade.php",
+		"/var/www/html/invoicemanager/resources/views/layouts/auth/register.blade.php",
+		"/var/www/html/oc_marcelodeve/README.md",
+		"/tmp/fz3temp-2/.env",
+		"/home/sirpaul/Downloads/stock.sql",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/item/actions_default.blade.php",
+		"/var/www/html/lv_stock/public/assets/js/bootstrap3-typeahead.min.js",
+		"/var/www/html/lv_stock/resources/views/inventory/form_editable.blade.php",
+		"/var/www/html/lv_stock/config/laratrust.php",
+		"/var/www/html/invoicemanager/resources/views/invoice/action.blade.php",
+		"/var/www/html/invoicemanager/resources/views/invoice/form.blade.php",
+		"/var/www/html/invoicemanager/app/Http/Controllers/ActionController.php",
+		"/var/www/html/invoicemanager/resources/views/layouts/panel/components/select.blade.php",
+		"/var/www/html/lv_stock/resources/views/place/form.blade.php",
+		"/var/www/html/lv_stock/public/assets/js/admin.js",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/sidebarfooter.blade.php",
+		"/var/www/html/lv_stock/config/app.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/preloader.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/master.blade.php",
+		"/var/www/html/lv_stock/database/seeds/DatabaseSeeder.php",
+		"/var/www/html/lv_stock/resources/views/product/form.blade.php",
+		"/var/www/html/lv_stock/resources/views/auth/login.blade.php",
+		"/var/www/html/lv_stock/resources/views/auth/register.blade.php",
+		"/var/www/html/lv_gorrion/database/migrations/2017_08_11_195438_create_suscriptions_table.php",
+		"/var/www/html/lv_gorrion/database/migrations/2017_11_12_000000_create_users_table.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/ProductsController.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/sidebars.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/sidebaruserinfo.blade.php",
+		"/var/www/html/lv_blog/resources/views/welcome.blade.php",
+		"/var/www/html/lv_blog/resources/views/layouts/header.blade.php",
+		"/var/www/html/lv_blog/resources/views/layouts/navbar.blade.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/BackendController.php",
+		"/var/www/html/lv_stock/app/Providers/ComposerServiceProvider.php",
+		"/var/www/html/lv_stock/app/Http/ViewComposers/MenuComposer.php",
+		"/var/www/html/lv_stock/lv_stock.sublime-project",
+		"/var/www/html/lv_stock/vendor/spatie/laravel-menu/src/Facades/Menu.php",
+		"/var/www/html/lv_stock/vendor/spatie/laravel-menu/src/Menu.php",
+		"/var/www/html/lv_stock/vendor/spatie/menu/src/Menu.php",
+		"/var/www/html/lv_stock/vendor/spatie/menu/src/Html/Tag.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/item-example/form.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/item-example/index.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/item-example/show.blade.php",
+		"/var/www/html/lv_stock/resources/views/product/show.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/item/index.blade.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/item/form.blade.php",
+		"/var/www/html/lv_stock/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/var/www/html/lv_stock/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/var/www/html/lv_stock/resources/views/layouts/panel/login.blade.php",
+		"/var/www/html/lv_stock/vendor/laravel/framework/src/Illuminate/Foundation/Auth/SendsPasswordResetEmails.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"getData",
+			"$product->quantity",
+			"col-md-2",
+			"<h2",
+			"<p>",
+			"<h2",
+			"h2",
+			"<h2",
+			"!isset",
+			"basic_checkbox_2",
+			"code",
+			"hasOne",
+			"products",
+			"root",
+			"products-list",
+			"products",
+			"aler",
+			"{{ $product->id }}",
+			"originpicker",
+			"list",
+			"products-list",
+			"completeURL",
+			"actionpicker",
+			"sarasa",
+			"origin",
+			"products",
+			"InventoryController",
+			"inventories",
+			"invenories",
+			"destinopicker",
+			"action",
+			"-6",
+			"quantity",
+			"note",
+			"destination",
+			"action",
+			"email",
+			"            \n",
+			"validateInput",
+			"validinputs",
+			"products",
+			"store",
+			"code",
+			"__PRODUCTID__",
+			"removeProduct",
+			"addProduct",
+			"click",
+			"paymentSubmit",
+			"setPaymentMethodInfo",
+			"actionpicker",
+			"selectpicker",
+			"md-3\"",
+			"item",
+			"items",
+			"places",
+			"Inventory",
+			"inventory",
+			"max_",
+			"186.58.241.32",
+			">onUpdate('cascade')",
+			"roles",
+			"->unsigned()",
+			"integer",
+			"order",
+			"orders",
+			"produjo",
+			"utf8mb4",
+			"utf8mb4_unicode_ci",
+			"utf8mb4",
+			"utf8mb4_unicode_ci",
+			"item",
+			"value",
+			" form-float",
+			"form-line",
+			"or '' }",
+			"=\"{{{",
+			"}}}\"",
+			"=\"{{{",
+			"inputs",
+			"top",
+			"action",
+			"page-loader-wrapper",
+			"rightSideBar",
+			"loader",
+			"visible",
+			"inventory",
+			"Inventory",
+			"product",
+			"href",
+			"value",
+			"inventory",
+			"Inventory",
+			"href=\"assets",
+			"href=\"",
+			"value=",
+			"route",
+			"product",
+			"ProductController",
+			"href=\"../../.*\">",
+			"../../index.html",
+			"product",
+			"Product",
+			"ProductsController",
+			"UsersController",
+			"PlacesController",
+			"Inventory",
+			"inventory",
+			"Inventory",
+			"inventory",
+			"Inventory",
+			"ActionsController",
+			"local",
+			"LocalsController",
+			"ProductController",
+			"product",
+			"ProductController",
+			"product",
+			"ProductController",
+			"product",
+			"ProductController",
+			"product",
+			"ProductController",
+			"product",
+			"Product",
+			"product",
+			"Product",
+			"product",
+			"shit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"utf8",
+			"utf8_unicode_ci",
+			"user",
+			"User",
+			"place",
+			"Place",
+			"route('asd.index')",
+			"inventory",
+			"Inventory",
+			"Featured",
+			"featured",
+			"ec882c",
+			"wow",
+			"\\n",
+			"",
+			"16B79C",
+			"sublime_text",
+			"subl",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "arg/mapa.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16332,
+								16332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "arg/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								982,
+								982
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 174.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mapa.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menufacade",
+				"vendor/spatie/laravel-menu/src/Facades/Menu.php"
+			],
+			[
+				"spatiefacade",
+				"vendor/spatie/laravel-menu/src/Facades/Menu.php"
+			],
+			[
+				"spatiemenu",
+				"vendor/spatie/laravel-menu/src/Menu.php"
+			],
+			[
+				"resetspasswords",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php"
+			],
+			[
+				"sendspasswordresetemails",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/SendsPasswordResetEmails.php"
+			],
+			[
+				"registersusers",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php"
+			],
+			[
+				"authenticatesusers",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"illuminateroutingrouter",
+				"vendor/laravel/framework/src/Illuminate/Routing/Router.php"
+			],
+			[
+				"authlogin",
+				"vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php"
+			],
+			[
+				"mailmessage",
+				"vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php"
+			],
+			[
+				"resetpass",
+				"app/Http/Controllers/Auth/ResetPasswordController.php"
+			],
+			[
+				"notifications",
+				"vendor/laravel/framework/src/Illuminate/Notifications/NotificationSender.php"
+			],
+			[
+				"simplem",
+				"vendor/laravel/framework/src/Illuminate/Notifications/Messages/SimpleMessage.php"
+			],
+			[
+				"authreset",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/SendsPasswordResetEmails.php"
+			],
+			[
+				"authrese",
+				"app/Http/Controllers/Auth/ResetPasswordController.php"
+			],
+			[
+				"postsshow",
+				"resources/views/posts/show.blade.php"
+			],
+			[
+				"v/we",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"rweb",
+				"routes/web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/html/drupal/dencorp/public_html/dencorp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 386.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
